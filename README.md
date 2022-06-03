@@ -1,6 +1,6 @@
 # Soren-Witter.github.io
 
-#### Example github page for CS-HU250
+Example github page for CS-HU250
 
 
 ## Example Github Page!
