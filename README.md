@@ -1,4 +1,4 @@
-## Soren Witter's Repository for Module 4 of CS-HU250!!!
+# Soren-Witter.github.io
 
 #### Example github page for CS-HU250
 
