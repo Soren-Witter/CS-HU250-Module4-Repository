@@ -1,5 +1,7 @@
 ## Soren Witter's Repository for Module 4 of CS-HU250!!!
 
+#### Example github page for CS-HU250
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
