@@ -2,6 +2,11 @@
 
 #### Example github page for CS-HU250
 
+
+## Example Github Page!
+
+Hello! This is an example Github page that you will create in CS-HU250 :)
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
