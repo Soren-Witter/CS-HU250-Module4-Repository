@@ -7,5 +7,6 @@ Example github page for CS-HU250
 
 Hello! This is an example Github page that you will create in CS-HU250 :)
 
-This page is hosted at (https://soren-witter.github.io/)
+This page is hosted at [https://soren-witter.github.io/]
+(https://soren-witter.github.io/)
 
